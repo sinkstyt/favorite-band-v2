@@ -18,9 +18,15 @@
   margin-left: 140px;
   padding: 0px 10px;
 }
-
 body {
   text-align: center;
   background: rgb(34,193,195);
   background: radial-gradient(circle, rgba(34,193,195,1) 22%, rgba(253,45,68,1) 77%);
+}
+.pic {
+  float: right;
+}
+img {
+  width: 40%;
+  height: 40%;
 }
